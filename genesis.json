@@ -1,6 +1,6 @@
 {
   "genesis_time": "2022-11-02T14:55:54.480912Z",
-  "chain_id": "paylata-testnet-2",
+  "chain_id": "paylatatestnet-2",
   "initial_height": "1",
   "consensus_params": {
     "block": {
